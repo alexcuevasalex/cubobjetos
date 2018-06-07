@@ -21,12 +21,12 @@ Para ejecutarlo basta con dar doble clic en el archivo objetos.bat. El cuál per
 Dentro de la carpeta evidencias se encuentran una imagen para comprender más fácilmente la explicación de su uso. Es muy sencillo, ya que la interfaz fue diseñada pensando en la comodidad del usuario. 
 
 # Pantalla para capturar los datos de entrada
-![Pantalla de datos](/evidencias/CapturaCuboEntrada.JPG)
+![Pantalla de datos](/evidencias/CapturaCuadradoCuboEntrada.JPG)
 
-# Pantalla de Resultados
-![Pantalla resultados](/evidencias/CapturaCuboSalida.JPG)
+# Pantalla de Resultados Area de un Cuadrado
+![Pantalla resultados](/evidencias/CapturaCuadradoSalida.JPG)
 
-# Pantalla de Resultados Volumen
+# Pantalla de Resultados Volumen de un Cubo
 ![Pantalla resultados](/evidencias/CapturaCuboVolumen.JPG)
 
 

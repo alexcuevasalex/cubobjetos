@@ -26,6 +26,10 @@ Dentro de la carpeta evidencias se encuentran una imagen para comprender más f�
 # Pantalla de Resultados
 ![Pantalla resultados](/evidencias/CapturaCuboSalida.JPG)
 
+# Pantalla de Resultados Volumen
+![Pantalla resultados](/evidencias/CapturaCuboVolumen.JPG)
+
+
 ## Explicación
 
 Se procura el uso de imágenes para que la interfaz sea más amigable e intuitiva. Primeramente se muestran dos imágenes: un cuadrado y un cubo. Esto para ubicar al usuario y que pueda fácilmente elegir con que figura desea operar. Así mismo, cada una de las dos figuras, tiene sus correspondientes botones. Por un lado, el cuadrado permite calcular su perímetro y su área. Mientras que el cubo permite calcular su perímetro y su volumen.
